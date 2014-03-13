@@ -1,4 +1,4 @@
-#! /usr/bin/env
+#! /usr/bin/env python
 
 # Set the inout file name
 # (The program must be run from within the directory that contains this data file)
